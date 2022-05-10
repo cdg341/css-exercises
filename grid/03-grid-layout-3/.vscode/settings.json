@@ -1,0 +1,7 @@
+{
+  "editor.fontFamily": "'Operator Mono'",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "normal",
+  "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+  "editor.fontSize": 14
+}
